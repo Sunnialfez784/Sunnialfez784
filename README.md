@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently work in apsile company <br>i'm learning with react js<br>i study on BCA
+i'm currently working with apsile company <br>i'm learning with react js<br>i study on BCA
 
 
 ## 🌐 Socials:
