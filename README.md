@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working with apsile company <br>i'm learning with react js<br>i study on BCA
+i'm currently working with appsile company <br>i'm experience Developer javaScript, react js, Next js but i am currently learning Backend Technologies<br> i study on BCA
 
 
 ## 🌐 Socials:
